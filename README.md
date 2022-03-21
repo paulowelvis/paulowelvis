@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Paulo Alfredo;
+- 👀 I’m interested in computer programming;
+- 🌱 I’m currently learning JavaScript, CSS and HTML, Iback want to learn more about backend;
+- 💞️ I’m looking to collaborate on projects to help me in to develop my skills to become a Computer Programmer 
+- 📫 How to reach me: paulo.a.m.fonseca@hotmail.com , you can also just text me in here.
